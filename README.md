@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music
 - 🌱 I’m currently learning Front-end Development
 - 💞️ I’m looking to collaborate on web application
-- 📫 How to reach me ...
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anamikadas96/)
 
 <!---
 anamika-das/anamika-das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
